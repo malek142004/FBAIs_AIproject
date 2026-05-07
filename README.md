@@ -10,7 +10,7 @@ Deep learning pipeline for detecting AI-generated and deepfake media (images and
 -  Deepfake faces vs real faces (image-level)
 -  Deepfake video detection (frame-level via MTCNN extraction)
 
-##  Fake image detection — `real-fake-deepfake-detection.ipynb`
+##  Fake image detection — `real-fake+deepfake-images-detection.ipynb`
 
 Two-part pipeline for detecting fake images, structured as independent tasks:
 
